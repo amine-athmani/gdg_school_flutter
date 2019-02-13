@@ -1,6 +1,6 @@
 # gdg_school_flutter
 
-A new Flutter project.
+A flutter project to display the list of workshops with their trainers and places at a GDG event
 
 ## Getting Started
 
